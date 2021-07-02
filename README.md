@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinpiovezan
 - 👀 I’m interested in studying other languages, and get a challenge every now and often.
-- 🌱 I’m currently learning node.js, and later on, I will learn react.js and react native as well.
+- 🌱 I’m currently learning Javascript , and later on, I will learn node.js, react.js and react native as well.
 - 💞️ I’m looking to collaborate on projects that can help me improve myself with excellent professionals around the world.
 - 📫 How to reach me: [www.linkedin.com/in/kevin-c-piovezan]
 
