@@ -130,5 +130,9 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 ## 📈 **My GitHub Stats:**
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinpiovezan)](https://github.com/kevinpiovezan/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinpiovezan&theme=dracula&show_icons=true)](https://github.com/kevinpiovezan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpiovezan&theme=dracula&layout=compact)](https://github.com/kevinpiovezan/github-readme-stats)
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kevinpiovezan.kevinpiovezan" alt="visitors">
+</div>
 
