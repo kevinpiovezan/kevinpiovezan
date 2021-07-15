@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <!-- IMAGEM -->
 
 <img
-	src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
+	src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="kevinpiovezan github stats"
 	width="50%"
 	align="right"
 />
