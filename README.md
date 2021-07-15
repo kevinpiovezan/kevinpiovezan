@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer">IBM Full Stack Cloud Professional course </a>
 </p>
 <p align="left">
- 🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations, such as: Node.js, TypeScript, Express.js, React.js, Next.js, React Native
+ 🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations and functions, such as: Node.js, TypeScript, Express.js, React.js, Next.js, React Native
 </p>
 
 <p align="left">❤️ **interests:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listen to old music, 📚 read books, 🎮 play video games.</p>
