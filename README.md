@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
  🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations, such as: Node.js, TypeScript, Express.js, React.js, Next.js, React Native
 </p>
 
-<p align="left">❤️ **interests:** ⚽️ play football, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</p>
+<p align="left">❤️ **interests:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listen to old music, 📚 read books, 🎮 play video games.</p>
 
 ---
 
