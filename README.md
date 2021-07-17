@@ -126,7 +126,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   2 hrs 12 mins   ██████████████████████▓░░   90.75 % 
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 <!--END_SECTION:waka-->
 
