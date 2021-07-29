@@ -126,11 +126,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 30 mins   █████████████████▓░░░░░░░   70.91 % 
-EJS          3 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript   10 hrs 8 mins   ██████████████████▒░░░░░░   72.80 % 
+EJS          3 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
