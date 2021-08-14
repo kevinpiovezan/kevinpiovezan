@@ -1,19 +1,3 @@
-<!-- - 👋 Hi, I’m @kevinpiovezan
-- 👀 I’m interested in studying other languages, and get a challenge every now and often.
-- 🌱 I’m currently learning: 
-- ![html5-3](https://user-images.githubusercontent.com/85972685/125042401-28c6ac80-e070-11eb-808d-1a5dfd3732cb.png)
-![css3](https://user-images.githubusercontent.com/85972685/125042502-48f66b80-e070-11eb-9065-d10b3a8cd8ee.png)
-![javascript-2](https://user-images.githubusercontent.com/85972685/125042533-50b61000-e070-11eb-99c4-ce8cb1c7e1d2.png)
-, and later on, node.js, typescript, react.js and react native as well.
-- 💞️ I’m looking to collaborate on projects that can help me improve myself with excellent professionals around the world.
-- 📫 How to reach me: [www.linkedin.com/in/kevin-c-piovezan]
-
-<!---
-kevinpiovezan/kevinpiovezan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- -->
- 
  <h1 align="center">
   Hi there, I'm Kevin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
@@ -55,11 +39,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  👨‍🎓 I'm currently studying at Udemy, with <a href="https://github.com/luizomf">Profº Luiz Otávio Miranda</a> and at Coursera's, 
-<a href ="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer">IBM Full Stack Cloud Professional course </a>
+  👨‍🎓 I'm currently studying at Udemy, with <a href="https://github.com/luizomf">Profº Luiz Otávio Miranda</a> and at Digital House's, 
+<a href ="https://certifiedtechdeveloper.com.br">Certified Tech Developer </a>
 </p>
 <p align="left">
- 🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations and functions, such as: Node.js, TypeScript, Express.js, React.js, Next.js, React Native
+ 🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations, such as: Node.js, TypeScript, React.js, React Native, Next.js
 </p>
 
 <p align="left">❤️ **interests:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listen to old music, 📚 read books, 🎮 play video games.</p>
