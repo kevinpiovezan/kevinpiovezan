@@ -14,7 +14,7 @@
 />
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
-<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](#) -->
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1IYWKw3pix40oJRNGhhm9Z4pzdaOWFrws/view?usp=sharing)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kevinpiovezan)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kevinpiovezan@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k3v1n_p10/)
@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
- 🎓👨‍🎓 Graduated in Computer Networks
+ 🎓👨‍🎓 Almost Graduated in Computer Networks
 </p>
 
 <p align="left">
