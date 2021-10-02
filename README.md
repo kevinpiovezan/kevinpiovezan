@@ -39,8 +39,8 @@
 </p>
 
 <p align="left">
-  👨‍🎓 I'm currently studying at Udemy, with <a href="https://github.com/luizomf">Profº Luiz Otávio Miranda</a> and at Digital House's, 
-<a href ="https://certifiedtechdeveloper.com.br">Certified Tech Developer </a>
+  👨‍🎓 I'm currently studying at Udemy, with <a href="https://github.com/luizomf">Profº Luiz Otávio Miranda</a>, at Digital House's, 
+<a href ="https://certifiedtechdeveloper.com.br">Certified Tech Developer </a> and last but not least at <a href="https://www.rocketseat.com.br/ignite">Rocketseat`s Ignite Course</a>
 </p>
 <p align="left">
  🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations, such as: Node.js, TypeScript, React.js, React Native, Next.js
