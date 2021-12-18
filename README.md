@@ -112,9 +112,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-CSV     5 mins          ██████████▒░░░░░░░░░░░░░░   41.93 % 
-C#      3 mins          ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Other   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
