@@ -112,8 +112,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML   57 mins         ████████████████████████▒   97.27 % 
-C#     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
