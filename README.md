@@ -111,9 +111,11 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
 
+```text
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## 📈 **My GitHub Stats:**
