@@ -13,11 +13,10 @@
 	align="right"
 />
 
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1IYWKw3pix40oJRNGhhm9Z4pzdaOWFrws/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://drive.google.com/file/d/1IYWKw3pix40oJRNGhhm9Z4pzdaOWFrws/view?usp=sharing](https://drive.google.com/file/d/1B040I8ftQm0JOV_VlUlXluWEbAg4RJFV/view?usp=sharing))
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kevinpiovezan)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kevinpiovezan@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k3v1n_p10/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin_piovezan/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kevin-c-piovezan)
    
 <br />
@@ -27,31 +26,36 @@
 🚀 About me
 
 <p align="left">
-  💻 Student of Web Development
+  💻 Software Engineer
 </p>
 
 <p align="left">
   📌 I live in São Paulo - BR
 </p>
 
-<p align="left">
- 🎓👨‍🎓 Almost Graduated in Computer Networks
-</p>
+Software developer with experience in full-stack development, API integrations, and cloud environment migration. With over 3 years of experience, I specialize in creating efficient and scalable web solutions. I possess advanced fluency in English, enabling me to collaborate effectively in international environments and access global technical resources.
 
-<p align="left">
-  👨‍🎓 I'm currently studying at Udemy, with <a href="https://github.com/luizomf">Profº Luiz Otávio Miranda</a>, at Digital House's, 
-<a href ="https://certifiedtechdeveloper.com.br">Certified Tech Developer </a> and last but not least at <a href="https://www.rocketseat.com.br/ignite">Rocketseat`s Ignite Course</a>
-</p>
-<p align="left">
- 🤓 I'm currently focused on learning the ins and outs of Web Programming with JavaScript and it's variations, such as: Node.js, TypeScript, React.js, React Native, Next.js
-</p>
+My key skills and experiences include:
 
-<p align="left">❤️ **interests:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listen to old music, 📚 read books, 🎮 play video games.</p>
+Full-Stack Development: Expertise in C#, JavaScript, HTML5, CSS3, Bootstrap, jQuery, and MySQL.
+
+ERP System Integration: Work with API integrations for ERP systems, such as SAP.
+
+LATAM Reach: Development of applications with reach in Latin America, where growth potential is significant.
+
+AWS Migration: Migration of infrastructure to Amazon Web Services, implementing Infrastructure as Code (IaC) with Terraform and configuring services such as ECS, ECR, RDS, EC2, Route 53, Lambda, and S3.
+
+CI/CD Pipelines: Creation of CI/CD pipelines in GitLab, Jenkins, and Bitbucket Pipelines, ensuring efficient automation of build, test, and deployment processes.
+
+My approach is focused on continuously improving processes and exploring new technologies to deliver solutions that drive business success. I am always open to new challenges and collaboration opportunities.
+
+Currently, I am focused on completing my undergraduate degree, with the goal of subsequently dedicating myself to AWS certifications to further enhance my skills in cloud computing.
+
+<p align="left">❤️ **Interests:** 🥋 Brazillian Jiujitsu, 📺 watch movies, series and animes, 🎶 listen to old music, 🎮 play video games.</p>
 
 ---
 
 ### 🛠️ Skills
-#### 🎨 ✍🏼 Design: <br/>
 <!-- FIGMA -->
 <!-- <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -64,40 +68,31 @@
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 <!-- NPM -->
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<!-- YARN -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
 
 ### :computer: Development
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![nodejs](https://img.shields.io/badge/NODE.JS-036e01?style=for-the-badge&logo=node.js&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![express](https://img.shields.io/badge/express-BBBBBB?style=for-the-badge&logo=express&logoColor=black)
-![nest](https://img.shields.io/badge/nest-000000?style=for-the-badge&logo=nestjs&logoColor=E0234D)
-<!-- ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) -->
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-<!-- ![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white) -->
+![dotnet](https://img.shields.io/badge/CORE-7799E5?style=for-the-badge&logo=.net&logoColor=white)
+![csharp](https://img.shields.io/badge/sharp-1572B6?style=for-the-badge&logo=c#&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-333333?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-### :computer: Backend as a Service (BaaS)
+### :computer: Cloud Computing
 
 <!-- ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white) -->
 <!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### :computer: Testing
+### :computer: CI/CD
 
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white) -->
+<!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
+![jenkins](https://img.shields.io/badge/JENKINS-666666?style=for-the-badge&logo=jenkins&logoColor=white)
+![gitlab](https://img.shields.io/badge/cicd-FF4500?style=for-the-badge&logo=gitlab&logoColor=white)
+![bitbucket](https://img.shields.io/badge/pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
@@ -105,6 +100,7 @@
 ![MacOS BigSur](https://img.shields.io/badge/Mac%20OS-BigSur-silver?style=for-the-badge&logo=apple)
 ![8GB RAM](https://img.shields.io/badge/8GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![rider](https://img.shields.io/badge/RIDER-333333?style=for-the-badge&logo=rider&logoColor=white)
 ![LunarVim](https://img.shields.io/badge/NeoVim(LunarVim)-FFFFFF?style=for-the-badge&logo=NeoVim&logoColor=green)
 
 ---
